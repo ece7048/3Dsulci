@@ -4,3 +4,14 @@ form and presence. To address this, we utilized two datasets and four input moda
 hemisphere) to classify the existence or absence of the paracingulate sulcus (PCS) using different 3D Convolutional Neural Network (CNN) deep learning networks. To ensure correct training, we employed two local explainable techniques (GradCam and SHAP)
 and generalized the results using Principal Component Analysis (PCA) to study the global learning patterns of the networks.
 
+# Install python code
+
+cd unzip_fold_of_code/
+
+pip install .
+
+# Source code description
+
+Please if you use the code cite the above publication:
+
+[1]
