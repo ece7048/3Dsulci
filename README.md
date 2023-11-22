@@ -14,4 +14,4 @@ pip install .
 
 Please if you use the code cite the above publication:
 
-[1]
+[1] https://arxiv.org/abs/2309.00903
